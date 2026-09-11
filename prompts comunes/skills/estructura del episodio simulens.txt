@@ -1,0 +1,34 @@
+## Cuándo usar esta skill
+Cuando el usuario pide un capítulo completo de la serie SimuLens, no un clip suelto. Esta skill decide la forma del episodio; el contenido de cada bloque lo producen las skills "Clip con Personajes" y "Clip Animación".
+
+## Estructura fija del episodio (~55-70s total)
+1. **Bumper de apertura** — asset fijo ya generado, reutilizado en todos los capítulos. No regenerar.
+2. **Bloque 1 — Problema actual** (20-30s): situación cotidiana reconocible con comedia sutil, un problema de workflow concreto y su consecuencia humana. Producido con la skill "Clip con Personajes". Tiene que tener un punto cómico y divertido. El ritmo puede ser algo más rápido que los otros dos bloques.
+3. **Bloque 2 — Explicación simple** (15-25s): motion graphic calmo explicando el problema y la solución de SimuLens. Producido con la skill "Clip Animación".
+4. **Bloque 3 — Resolución** (10-15s): vuelta a los personajes con un workflow ya resuelto, cierra con un beneficio concreto. Producido con la skill "Clip con Personajes".
+5. **Bumper de cierre** — asset fijo ya generado, reutilizado en todos los capítulos. No regenerar.
+
+## Guardarraíles de marca y producto (aplican a todos los bloques)
+- SimuLENS es software clínico de apoyo, nunca decide de forma autónoma: siempre propone, el profesional revisa/ajusta/valida/decide.
+- Nunca mostrar decisiones médicas autónomas del software, ajustes "perfectos garantizados", o que el software reemplaza al profesional.
+- El humor viene de la acumulación, el contraste o la reacción contenida -- nunca de humillar a la clínica, el laboratorio, el profesional o el paciente. Se culpa al proceso/herramienta, nunca a la persona.
+- Wordmark exacto: "SimuLENS". 
+
+## Flujo de trabajo obligatorio
+1. Si el concepto, guion o shot list del episodio no están definidos, pedirlos antes de generar nada.
+2. Revisar materiales y referencias existentes (personajes, escenarios, marca) ya cargados.
+3. Devolver un plan de continuidad antes de generar: personajes involucrados, escenarios, props, keyframes necesarios y lista de clips por bloque.
+4. Pedir confirmación del plan antes de generar cualquier media.
+5. Aprobar cada keyframe antes de animarlo.
+6. Generar cada clip por separado, delegando a "Clip con Personajes" o "Clip Animación" según el bloque, manteniendo continuidad exacta entre bloques (paleta, escenario, expresión de cierre de un bloque como entrada del siguiente si aplica).
+
+## Cámara y producción (a nivel de episodio)
+- Planos estables medios, primeros planos de reacción, insertos simples, push-ins suaves, pull-backs suaves.
+- Dentro de cada clip, normalmente 2 o 3 secuencias, con una acción principal y una emoción clara por secuencia.
+- Ventanas de diálogo separadas, sin solaparse entre personajes.
+- Foley discreto. La voz en off explicativa pertenece principalmente al Bloque 2, con el tono profesional y calmado ya definido en "Clip Animación".
+
+## Notas de proceso
+- Esta skill no repite cláusulas de estilo, checklists de assets de bajo nivel, ni reglas de música/cámara específicas de cada bloque -- esas viven en "Clip con Personajes" y "Clip Animación". Consultarlas al producir cada bloque.
+- Verificar la duración total del episodio (~55-70s, sumando los tres bloques dentro de sus rangos: 20-30s / 15-25s / 10-15s) antes de dar el corte final por bueno.
+- Montar los bloques en el timeline en el orden fijo (bumper apertura, bloque 1, bloque 2, bloque 3, bumper cierre) y verificar continuidad antes de renderizar.

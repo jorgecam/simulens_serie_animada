@@ -1,0 +1,41 @@
+## Cuándo usar esta skill
+Cuando el usuario pide un nuevo clip dentro de una serie ambientada en el mismo escenario (ej. laboratorio óptico, clínica) con los mismos personajes recurrentes, y quiere que el fondo, los objetos, la paleta de colores y el tono se mantengan idénticos entre clips.
+
+## Checklist de assets — verificar ANTES de escribir el prompt
+Si falta alguno de estos y es necesario para el clip, pedirlo o generarlo primero (nunca inventar el asset ni saltarse el paso):
+
+1. **Imagen de fondo sin personajes** — referencia fuerte y autoritativa de objetos, paredes, mobiliario, paleta y textura. Fuente de verdad del fondo.
+2. **Imagen(es) de posición/expresión de personajes** — dónde se colocan al inicio del clip. Solo para posición inicial, nunca para el fondo (los personajes lo tapan). Si hay cambios de plano, evaluar más referencias.
+3. **Hoja de identidad por personaje** — referencia fija de cara/pelo/ropa, distinta del punto 2 ("quién" vs "dónde").
+4. **Imagen aparte por cada pantalla visible** (monitor, tablet, móvil, TV) — contenido de interfaz generado por separado, nunca improvisado en el prompt de video.
+5. **Asset de objetos particulares** no presentes en el fondo base.
+6. **Frame de continuidad** — si empalma con un clip anterior, extraer su último frame (extract_frame) y usarlo como first_frame.
+
+Si falta algo crítico, decirlo antes de generar.
+
+## Pronunciación fonética obligatoria
+En cualquier diálogo o texto destinado a voz, sustituir "topographer" y "SimuLens" por su ortografía fonética en inglés estadounidense, porque los modelos no las pronuncian bien: usar "tuh-POG-ruh-fer" y "SIM-yoo-lenz" en el texto pasado al modelo. Verificar esto siempre que el diálogo incluya alguna de estas palabras.
+
+## Cláusulas fijas en inglés (copiar verbatim)
+
+**Estilo:** "Flat cel-shaded illustration style, bold outlines, flat clean color fills, no grain, matching the attached reference images exactly in texture and palette. Language english"
+
+**Restricciones negativas:** "Use the empty-background reference as the strong, authoritative source for every object, surface, and piece of equipment -- copy shapes, positions, and colors exactly. Do not invent, guess, restyle, or alter any background object. Do not add anything not visible in that reference. Do not move or relocate anything from where it sits there. Do not change the color or tone of any object relative to the reference."
+
+**Formato de salida:** "Vertical 9:16 aspect ratio, 720p resolution."
+
+## Estructura del prompt (en este orden)
+1. Cláusula de estilo
+2. Cláusula de restricciones negativas
+3. Descripción breve del escenario
+4. **Cámara** (por defecto): "The camera stays fixed in place -- no panning, dolly, or lateral movement. Zooming in/out is allowed where it suits the beat." Cambiar solo si se pide explícitamente.
+5. Personajes: rasgos fijos + posición inicial
+6. Beats con timestamps: acción + diálogo verbatim atribuido (aplicando la pronunciación fonética obligatoria donde corresponda) + expresión del beat. No parafrasear el diálogo más allá de esa sustitución.
+7. Música y efectos: por defecto cómico, ligero, instrumental (pizzicato/marimba/ukulele); efectos puntuales y comedidos (ej. un solo "boing", nunca amontonar)
+8. Aspect ratio y resolución (decidir cada vez, no asumir del clip anterior)
+9. Nota de cierre/costura: breve hold estático al final si empalma con el siguiente clip
+
+## Notas de proceso aprendidas
+- Verificar siempre con analyze_image/analyze_video el resultado contra los puntos críticos (expresión, paleta, cámara, diálogo, efectos, pronunciación) antes de darlo por bueno o pasarlo al timeline.
+- "CRITICAL" ayuda a priorizar instrucciones en tensión (fondo fijo vs. personajes animados) pero no garantiza cumplimiento exacto -- seguir verificando.
+- Comprobar que la duración alcance para que los personajes hablen con naturalidad, sin quedar apretado o ininteligible. Si no entra, avisar y ajustar duración o guion en vez de dejar que el modelo acelere el habla.

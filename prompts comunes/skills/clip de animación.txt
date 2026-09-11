@@ -1,0 +1,47 @@
+## Cuándo usar esta skill
+Clip central/explicativo de una serie SimuLens: 15-20s en motion graphic/infografía que plantea un problema y muestra cómo SimuLens lo soluciona. Distinto de "Clip con Personajes" -- aquí no hay personajes protagonistas, el foco es el contenido gráfico/informativo.
+
+## Paso obligatorio previo: recopilar y verificar el contenido
+Cada clip trata un problema distinto. NUNCA inventar el problema o la solución. Pedir y verificar antes de generar:
+1. **El problema**: dificultad concreta del cliente objetivo.
+2. **La solución de SimuLens**: mecanismo concreto, no solo beneficio genérico.
+3. **Dato o cifra de apoyo** (opcional).
+4. **Términos/nombres exactos** en pantalla.
+
+Si la descripción es vaga, pedir aclaración antes de generar.
+
+## Checklist de assets — OBLIGATORIO verificar antes de generar
+1. **Brand kit de SimuLens** (si existe) — logo, paleta, tipografía.
+2. **Imagen de referencia para CADA elemento gráfico no genérico**: ícono, diagrama, captura, gráfico de datos específico. Pedir como asset al usuario, nunca improvisar.
+3. **Imagen de referencia fuerte para TODO texto en pantalla**: cada línea/título/cifra necesita una referencia con el texto ya escrito y verificado (generada con generate_image si el usuario no la aporta). Nunca confiar en que el modelo de video escriba bien el texto solo.
+4. Si empalma con otro clip de la serie, mantener continuidad de paleta y tipografía.
+
+## Pronunciación fonética obligatoria
+En el guion de voz en off, sustituir "topographer" y "SimuLens" por su ortografía fonética en inglés estadounidense, porque los modelos no las pronuncian bien: usar "tuh-POG-ruh-fer" y "SIM-yoo-lenz" en el texto pasado al modelo de voz. El texto en pantalla conserva la grafía normal -- la sustitución aplica solo al texto hablado.
+
+## Estilo visual por defecto
+Moderno, liviano y ágil: mensajes cortos en pantalla (nunca párrafos largos), iconografía sencilla pero atractiva y contemporánea, ritmo dinámico sin recargarse. Por defecto salvo que se pida otro estilo.
+
+## Cláusulas fijas en inglés (copiar verbatim)
+
+**Estilo:** "Clean modern motion graphic / infographic style, light and agile visual rhythm, flat vector shapes, simple but attractive and contemporary iconography, short punchy on-screen messages (not paragraphs), bold clear typography, smooth animated transitions between elements, no photorealism, no live-action footage. Language english"
+
+**Restricciones negativas:** "Do not invent product names, features, or on-screen text beyond what is specified in the reference images. Reproduce all on-screen text exactly as shown in the text reference images -- do not paraphrase, respell, or redesign it. Do not alter the brand's colors, logo, or wordmark. Keep text legible on screen for enough time to be read. Keep on-screen text short -- avoid long paragraphs or dense blocks of text."
+
+**Formato de salida:** "Vertical 9:16 aspect ratio, 720p resolution."
+
+## Estructura del prompt
+1. Cláusula de estilo
+2. Cláusula de restricciones negativas
+3. **Problema** (primer tercio aprox.): ícono/diagrama/escena simplificada, apoyado en referencias gráficas.
+4. **Transición a la solución**: giro visual claro (cambio de paleta, aparición del logo).
+5. **Explicación de la solución** (resto): mecanismo concreto, apoyado en referencias de texto y dato de apoyo si existe.
+6. **Voz en off** (si se pide): tono profesional y calmado, dicción clara, sin urgencia. Aplicar la pronunciación fonética obligatoria a "topographer" y "SimuLens".
+7. **Música**: suave, tranquila, transmite calma y confianza -- nunca cómica, urgente o tensa.
+8. **Duración objetivo**: 15-20s, reparto aprox. 40% problema / 60% solución.
+9. **Formato de salida**: confirmar con el usuario si no lo indicó.
+
+## Notas de proceso
+- Verificar con analyze_image/analyze_video que el texto en pantalla coincide exactamente con las referencias, que la marca no se alteró, que la pronunciación de "topographer" y "SimuLens" en la voz en off sea correcta, y que el mensaje problema?solución quede claro, antes de darlo por bueno o pasarlo al timeline.
+- Si hay texto denso o varias cifras, generar primero la infografía como imagen fija revisando el texto, y animarla después.
+- Comprobar que la duración alcance para leer el texto y escuchar la voz en off con comodidad -- si no entra, avisar y ajustar antes de generar.

@@ -1,0 +1,1 @@
+CRITICAL CAMERA: The camera does not pan, dolly, or shift sideways at any point -- it stays in the same fixed position throughout. Zooming in/out is allowed and encouraged where it suits the beat (e.g. a push-in during the close-up moments), but no lateral or rotational camera movement.

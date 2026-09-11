@@ -1,0 +1,44 @@
+"Estoy retomando un proyecto de video para SimuLens (plataforma de adaptación de lentes de contacto especiales). Tengo 5 clips de video ya generados que forman un spot: (1) Emma la óptica gestionando datos de WhatsApp, (2) Emma/Sam confirmando detalles con un paciente, (3) transición gráfica con narración explicando SimuLens, (4) escena de cierre con Emma en su oficina, (5) alternativa de cierre con Emma/Carl y botón 'Book a Demo'. Ya tengo un doblaje completo en español (5 clips de audio sincronizados por escena, mismo timing que el video) y un efecto de sonido para el botón final. Necesito reconstruir dos timelines: uno en inglés (audio original) y uno en español (audio doblado con overlay muteando el original). Adjunto todos los assets."
+
+Personajes:
+
+Emma — la óptica/optometrista. Carácter cálido, brillante y resolutivo, con un punto de energía nerviosa cuando las cosas se complican (habla rápido, se disculpa con la mirada, sonríe para tranquilizar). Viste bata blanca de laboratorio, con gafas. Gesticula con tablet o portapapeles en mano. Es el ancla emocional de las escenas: siempre intenta que el paciente se sienta bien atendido, incluso cuando el proceso interno (WhatsApp, archivos perdidos) es un caos.
+
+Sam — técnico de laboratorio, aparece en videollamada. Carácter seco, plano, deadpan; el contrapunto cómico a la energía de Emma. Nunca se altera, solo constata hechos con precisión molesta ("enviaste un archivo, y luego otro una hora después"). Aporta la tensión del sketch sin subir el tono.
+
+Carl — el paciente. Arranca cansado y con los brazos cruzados, algo escéptico del proceso; a mitad de escena pasa por preocupación leve, y cierra con alivio genuino y una sonrisa relajada. Es la mirada del cliente común, el que sufre la ineficiencia y luego respira cuando todo se resuelve.
+
+Estética general:
+
+Tono de comedia suave de oficina/clínica: cotidiano, cálido, nunca sarcástico ni cínico.
+Ambientación de consulta óptica: paredes en verde azulado (teal), plantas, decoración cálida de madera, lámpara de hendidura visible, gráfico de agudeza visual en la pared.
+Interfaz de la app SimuLens: barra de navegación azul oscuro con logo blanco, tarjetas de paciente limpias, mapas de topografía corneal en colores arcoíris (azul-verde-amarillo-naranja-rojo), insignias de estado en verde ("Ready"), diseño minimalista tipo SaaS moderno.
+Cámara: encuadres cercanos y medios sobre los personajes hablando, con push-in suave al iniciar líneas clave y pull-back al resolver la escena; transiciones tipo "whoosh" suave entre planos.
+Pieza de transición gráfica: fondo limpio, tipografía clara, wipes suaves, paleta consistente con el logo de SimuLens (azul oscuro sobre beige/crema claro).
+Cierre de marca: pantalla minimalista beige clara, logo SimuLens en azul oscuro, botón "Book a Demo" con borde gris redondeado.
+
+Clip A — Escena de oficina, sin diálogo (tapping/teclado/cámara) Duración: 10s
+
+Tiempo	Elemento visual	Elemento sonoro
+0.00–2.25s	Push-in de cámara sobre Emma; ella toca rápidamente la pantalla de una tablet	Tapping rápido y audible sobre pantalla táctil
+2.50–3.50s	Corte/transición de pantalla en la tablet	Chime de notificación digital coincidiendo con la transición
+3.50–4.00s	Pausa breve	Solo ambiente de sala
+4.00–6.50s	Push-in sobre el técnico (Sam); escribe en un teclado	Clics de teclado, claramente audibles, individuales
+6.50–9.00s	Pull-back (zoom out) a plano general de la oficina; Emma se recuesta y sonríe	Sonido suave de "whoosh"/roce al alejarse la cámara
+9.50s (frame de referencia)	Interfaz SimuLens visible en esquina superior derecha: ficha de paciente "Camacho, Jorge", topografía en colores arcoíris, simulación de lente	Ambiente sostenido, sin foley nuevo
+Clip B — Cierre Emma/Carl con "Book a Demo" Duración: 10s
+
+Tiempo	Hablante / Acción visual	Línea (ES)
+0.00–1.00s	Emma, plano medio, sonriendo, sostiene portapapeles	"Está todo resuelto."
+1.00–2.00s	Carl, primer plano, cejas fruncidas, algo de tensión	"¿Todo?"
+2.00–3.00s	Emma, plano medio, levanta una tablet con gráfico visual	"Todo."
+3.00–5.50s	Carl, primer plano, la preocupación se disuelve en alivio y sonrisa	"Entonces, ¿no voy a volver por un mensaje de voz perdido?"
+5.50–7.00s	Emma, breve risa, sostiene el portapapeles cerca	"Por esa razón, no."
+7.00–8.00s	Sin diálogo, ambiente de sala	—
+8.00–9.00s	Pantalla de cierre: fondo beige minimalista, logo "SimuLens" azul oscuro, botón redondeado gris claro con borde gris oscuro	Texto en pantalla: "Book a Demo" — acompañado de un chime UI suave + click ligero
+9.00–10.00s	Sostiene el frame de cierre	—
+Reglas clave para regenerar con este encaje:
+
+El diálogo debe caer estrictamente dentro de su ventana de tiempo, sin fugas hacia la línea vecina — así se evita el intercambio de voces entre Emma y Carl.
+Cualquier mención de "WhatsApp" en diálogo (si aplica a otro clip) debe coincidir con el momento exacto en que el teléfono/app aparece en pantalla, no antes ni después.
+El efecto de sonido del botón "Book a Demo" va en pista separada, alineado a 8.00–9.00s del Clip B, nunca mezclado directamente en el diálogo.

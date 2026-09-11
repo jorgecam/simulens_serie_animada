@@ -1,0 +1,507 @@
+SIMULENS — RUNWAY / SKILLS HISTORICAL ARCHIVE
+
+    LOWEST-PRIORITY MATERIAL. NOT A SOURCE OF TRUTH.
+    Use only for recovering old experiments or wording.
+
+    Priority: latest user decision > canon > skill_*.md > video_*.md > runway_prompts.md > this archive.
+
+
+======================================================================
+HISTORICAL SOURCE: NOTAS.txt
+======================================================================
+
+- crear siempre una imagen ancla con los personajes colocados donde empieza el video
+- pasarle siempre la imagen base sin los personajes, para que no se invente los objetos que están detrás
+- decirle que respete fuertemente colores y textura (ver promt)
+
+======================================================================
+HISTORICAL SOURCE: README.md
+======================================================================
+
+# RAW IMPORT
+Material crudo original del ZIP. Puede contener grafías antiguas (`Hellen`), cláusulas muy específicas
+de una prueba o reglas que ya evolucionaron. Consultar, pero no usar como fuente superior.
+
+======================================================================
+HISTORICAL SOURCE: Working Copy of NOTAS.txt
+======================================================================
+
+- crear siempre una imagen ancla con los personajes colocados donde empieza el video
+- pasarle siempre la imagen base sin los personajes, para que no se invente los objetos que están detrás
+- trabajar siempre las pantallas de ordenador y móvil por separado
+- decirle que respete fuertemente colores y textura (ver promt)
+- para la música y efectos hay un prompt específico (ver prompt)
+- 
+
+
+CRITICAL CAMERA: The camera does not pan, dolly, or shift sideways at any point -- it stays in the same fixed position throughout. Zooming in/out is allowed and encouraged where it suits the beat (e.g. a push-in during the close-up moments), but no lateral or rotational camera movement.
+
+CRITICAL BACKGROUND: Use the attached "empty lab" reference (no characters) as the strong, authoritative reference for every object, surface, and piece of equipment -- light blue walls, blue cabinetry, wood countertop, computer desk and monitor, microscope, caliper, vials, polishing machine, wall shelf, lens-diagram posters, and every other visible prop. Copy their exact shapes, positions, colors, and details from that empty-room reference, since it is unobstructed and shows the true, complete environment. Use the "anchor with characters" image only to determine where Sam and Hellen are initially positioned and posed -- not for the appearance of any background object, since characters partially block that view. Do not invent, guess, restyle, or alter any background object; do not add anything not visible in the empty-room reference; do not move or relocate anything from where it sits there.
+
+======================================================================
+HISTORICAL SOURCE: camara.txt
+======================================================================
+
+CRITICAL CAMERA: The camera does not pan, dolly, or shift sideways at any point -- it stays in the same fixed position throughout. Zooming in/out is allowed and encouraged where it suits the beat (e.g. a push-in during the close-up moments), but no lateral or rotational camera movement.
+
+======================================================================
+HISTORICAL SOURCE: efecto audio intro.txt
+======================================================================
+
+"Background music bed: playful, upbeat comedic instrumental, light pizzicato strings and marimba/xylophone playing short punchy staccato notes, like the quick button/rimshot at the end of a joke, understated and warm, not slapstick, bright cheerful quirky character with a gentle bouncing rhythm, building with a small upward flourish during the [X] animation beats, then settling into a light satisfying final button/accent note right as everything lands at [Y], continuing softly and calmly through the static hold."
+
+======================================================================
+HISTORICAL SOURCE: para que siga la estética de la referencia.txt
+======================================================================
+
+CRITICAL CAMERA: The camera does not move, pan, zoom, dolly, or shift at any point. Single, completely locked-off, static camera position held for the full 18 seconds. No camera motion of any kind.
+
+CRITICAL BACKGROUND: Use the attached "empty lab" reference (no characters) as the strong, authoritative reference for every object, surface, and piece of equipment -- light blue walls, blue cabinetry, wood countertop, computer desk and monitor, microscope, caliper, vials, polishing machine, wall shelf, lens-diagram posters, and every other visible prop. Copy their exact shapes, positions, colors, and details from that empty-room reference, since it is unobstructed and shows the true, complete environment. Use the "anchor with characters" image only to determine where Sam and Hellen are initially positioned and posed -- not for the appearance of any background object, since characters partially block that view. Do not invent, guess, restyle, or alter any background object; do not add anything not visible in the empty-room reference; do not move or relocate anything from where it sits there.
+
+Use the Sam and Hellen character sheets for their appearance: Sam's dark hair, black-framed glasses, dark blue polo shirt; Hellen's silver-grey bob, tortoiseshell glasses, grey blazer. Flat cel-shaded illustration style, bold outlines, flat clean color fills, no grain.
+
+-------------------------
+
+CRITICAL: Match the attached anchor image exactly in texture, palette, and style -- flat cel-shaded, bold outlines, flat clean color fills, no grain. Same optics laboratory as the anchor: light blue walls, blue cabinetry, wood countertop, microscope, caliper, vials, polishing machine, wall shelf, lens-diagram posters. CRITICAL: preserve the exact color and tone of every object in the anchor image throughout the entire shot -- do not shift, warm, cool, or otherwise alter the color of any object, wall, surface, or piece of equipment. Do not invent any new objects, props, or set dressing that are not present in the anchor. Do not move, relocate, or reposition any existing object, piece of furniture, or equipment from where it sits in the anchor. Vertical 9:16, single continuous shot, 18 seconds total.
+
+======================================================================
+HISTORICAL SOURCE: plantilla musica animacion.txt
+======================================================================
+
+"Background music bed: playful, upbeat comedic instrumental underscore, subtle and low under dialogue, never competing with spoken lines. Light pizzicato strings and marimba/xylophone as the core palette, short punchy staccato notes, warm and cheerful, not slapstick. The score tracks the scene's comedic beats rather than playing continuously flat: a small curious flourish under [confident/pleased action], a soft suspended note or held chord under [pause/hesitation beat], a light comedic 'uh-oh' descending run or quick staccato stumble under [moment of confusion or awkwardness], and a gentle punchy button/rimshot-style accent right on [the punchline or resolution]. Between these accented moments, the underscore thins out to a quiet, sparse pizzicato pulse so it never distracts from dialogue. Warm, tasteful, character-driven scoring, matching a gentle sitcom-adjacent tone."
+
+======================================================================
+HISTORICAL SOURCE: clip con personajes.txt
+======================================================================
+
+## Cuándo usar esta skill
+Cuando el usuario pide un nuevo clip dentro de una serie ambientada en el mismo escenario (ej. laboratorio óptico, clínica) con los mismos personajes recurrentes, y quiere que el fondo, los objetos, la paleta de colores y el tono se mantengan idénticos entre clips.
+
+## Checklist de assets — verificar ANTES de escribir el prompt
+Si falta alguno de estos y es necesario para el clip, pedirlo o generarlo primero (nunca inventar el asset ni saltarse el paso):
+
+1. **Imagen de fondo sin personajes** — referencia fuerte y autoritativa de objetos, paredes, mobiliario, paleta y textura. Fuente de verdad del fondo.
+2. **Imagen(es) de posición/expresión de personajes** — dónde se colocan al inicio del clip. Solo para posición inicial, nunca para el fondo (los personajes lo tapan). Si hay cambios de plano, evaluar más referencias.
+3. **Hoja de identidad por personaje** — referencia fija de cara/pelo/ropa, distinta del punto 2 ("quién" vs "dónde").
+4. **Imagen aparte por cada pantalla visible** (monitor, tablet, móvil, TV) — contenido de interfaz generado por separado, nunca improvisado en el prompt de video.
+5. **Asset de objetos particulares** no presentes en el fondo base.
+6. **Frame de continuidad** — si empalma con un clip anterior, extraer su último frame (extract_frame) y usarlo como first_frame.
+
+Si falta algo crítico, decirlo antes de generar.
+
+## Pronunciación fonética obligatoria
+En cualquier diálogo o texto destinado a voz, sustituir "topographer" y "SimuLens" por su ortografía fonética en inglés estadounidense, porque los modelos no las pronuncian bien: usar "tuh-POG-ruh-fer" y "SIM-yoo-lenz" en el texto pasado al modelo. Verificar esto siempre que el diálogo incluya alguna de estas palabras.
+
+## Cláusulas fijas en inglés (copiar verbatim)
+
+**Estilo:** "Flat cel-shaded illustration style, bold outlines, flat clean color fills, no grain, matching the attached reference images exactly in texture and palette. Language english"
+
+**Restricciones negativas:** "Use the empty-background reference as the strong, authoritative source for every object, surface, and piece of equipment -- copy shapes, positions, and colors exactly. Do not invent, guess, restyle, or alter any background object. Do not add anything not visible in that reference. Do not move or relocate anything from where it sits there. Do not change the color or tone of any object relative to the reference."
+
+**Formato de salida:** "Vertical 9:16 aspect ratio, 720p resolution."
+
+## Estructura del prompt (en este orden)
+1. Cláusula de estilo
+2. Cláusula de restricciones negativas
+3. Descripción breve del escenario
+4. **Cámara** (por defecto): "The camera stays fixed in place -- no panning, dolly, or lateral movement. Zooming in/out is allowed where it suits the beat." Cambiar solo si se pide explícitamente.
+5. Personajes: rasgos fijos + posición inicial
+6. Beats con timestamps: acción + diálogo verbatim atribuido (aplicando la pronunciación fonética obligatoria donde corresponda) + expresión del beat. No parafrasear el diálogo más allá de esa sustitución.
+7. Música y efectos: por defecto cómico, ligero, instrumental (pizzicato/marimba/ukulele); efectos puntuales y comedidos (ej. un solo "boing", nunca amontonar)
+8. Aspect ratio y resolución (decidir cada vez, no asumir del clip anterior)
+9. Nota de cierre/costura: breve hold estático al final si empalma con el siguiente clip
+
+## Notas de proceso aprendidas
+- Verificar siempre con analyze_image/analyze_video el resultado contra los puntos críticos (expresión, paleta, cámara, diálogo, efectos, pronunciación) antes de darlo por bueno o pasarlo al timeline.
+- "CRITICAL" ayuda a priorizar instrucciones en tensión (fondo fijo vs. personajes animados) pero no garantiza cumplimiento exacto -- seguir verificando.
+- Comprobar que la duración alcance para que los personajes hablen con naturalidad, sin quedar apretado o ininteligible. Si no entra, avisar y ajustar duración o guion en vez de dejar que el modelo acelere el habla.
+
+======================================================================
+HISTORICAL SOURCE: clip de animación.txt
+======================================================================
+
+## Cuándo usar esta skill
+Clip central/explicativo de una serie SimuLens: 15-20s en motion graphic/infografía que plantea un problema y muestra cómo SimuLens lo soluciona. Distinto de "Clip con Personajes" -- aquí no hay personajes protagonistas, el foco es el contenido gráfico/informativo.
+
+## Paso obligatorio previo: recopilar y verificar el contenido
+Cada clip trata un problema distinto. NUNCA inventar el problema o la solución. Pedir y verificar antes de generar:
+1. **El problema**: dificultad concreta del cliente objetivo.
+2. **La solución de SimuLens**: mecanismo concreto, no solo beneficio genérico.
+3. **Dato o cifra de apoyo** (opcional).
+4. **Términos/nombres exactos** en pantalla.
+
+Si la descripción es vaga, pedir aclaración antes de generar.
+
+## Checklist de assets — OBLIGATORIO verificar antes de generar
+1. **Brand kit de SimuLens** (si existe) — logo, paleta, tipografía.
+2. **Imagen de referencia para CADA elemento gráfico no genérico**: ícono, diagrama, captura, gráfico de datos específico. Pedir como asset al usuario, nunca improvisar.
+3. **Imagen de referencia fuerte para TODO texto en pantalla**: cada línea/título/cifra necesita una referencia con el texto ya escrito y verificado (generada con generate_image si el usuario no la aporta). Nunca confiar en que el modelo de video escriba bien el texto solo.
+4. Si empalma con otro clip de la serie, mantener continuidad de paleta y tipografía.
+
+## Pronunciación fonética obligatoria
+En el guion de voz en off, sustituir "topographer" y "SimuLens" por su ortografía fonética en inglés estadounidense, porque los modelos no las pronuncian bien: usar "tuh-POG-ruh-fer" y "SIM-yoo-lenz" en el texto pasado al modelo de voz. El texto en pantalla conserva la grafía normal -- la sustitución aplica solo al texto hablado.
+
+## Estilo visual por defecto
+Moderno, liviano y ágil: mensajes cortos en pantalla (nunca párrafos largos), iconografía sencilla pero atractiva y contemporánea, ritmo dinámico sin recargarse. Por defecto salvo que se pida otro estilo.
+
+## Cláusulas fijas en inglés (copiar verbatim)
+
+**Estilo:** "Clean modern motion graphic / infographic style, light and agile visual rhythm, flat vector shapes, simple but attractive and contemporary iconography, short punchy on-screen messages (not paragraphs), bold clear typography, smooth animated transitions between elements, no photorealism, no live-action footage. Language english"
+
+**Restricciones negativas:** "Do not invent product names, features, or on-screen text beyond what is specified in the reference images. Reproduce all on-screen text exactly as shown in the text reference images -- do not paraphrase, respell, or redesign it. Do not alter the brand's colors, logo, or wordmark. Keep text legible on screen for enough time to be read. Keep on-screen text short -- avoid long paragraphs or dense blocks of text."
+
+**Formato de salida:** "Vertical 9:16 aspect ratio, 720p resolution."
+
+## Estructura del prompt
+1. Cláusula de estilo
+2. Cláusula de restricciones negativas
+3. **Problema** (primer tercio aprox.): ícono/diagrama/escena simplificada, apoyado en referencias gráficas.
+4. **Transición a la solución**: giro visual claro (cambio de paleta, aparición del logo).
+5. **Explicación de la solución** (resto): mecanismo concreto, apoyado en referencias de texto y dato de apoyo si existe.
+6. **Voz en off** (si se pide): tono profesional y calmado, dicción clara, sin urgencia. Aplicar la pronunciación fonética obligatoria a "topographer" y "SimuLens".
+7. **Música**: suave, tranquila, transmite calma y confianza -- nunca cómica, urgente o tensa.
+8. **Duración objetivo**: 15-20s, reparto aprox. 40% problema / 60% solución.
+9. **Formato de salida**: confirmar con el usuario si no lo indicó.
+
+## Notas de proceso
+- Verificar con analyze_image/analyze_video que el texto en pantalla coincide exactamente con las referencias, que la marca no se alteró, que la pronunciación de "topographer" y "SimuLens" en la voz en off sea correcta, y que el mensaje problema?solución quede claro, antes de darlo por bueno o pasarlo al timeline.
+- Si hay texto denso o varias cifras, generar primero la infografía como imagen fija revisando el texto, y animarla después.
+- Comprobar que la duración alcance para leer el texto y escuchar la voz en off con comodidad -- si no entra, avisar y ajustar antes de generar.
+
+======================================================================
+HISTORICAL SOURCE: estructura del episodio simulens.txt
+======================================================================
+
+## Cuándo usar esta skill
+Cuando el usuario pide un capítulo completo de la serie SimuLens, no un clip suelto. Esta skill decide la forma del episodio; el contenido de cada bloque lo producen las skills "Clip con Personajes" y "Clip Animación".
+
+## Estructura fija del episodio (~55-70s total)
+1. **Bumper de apertura** — asset fijo ya generado, reutilizado en todos los capítulos. No regenerar.
+2. **Bloque 1 — Problema actual** (20-30s): situación cotidiana reconocible con comedia sutil, un problema de workflow concreto y su consecuencia humana. Producido con la skill "Clip con Personajes". Tiene que tener un punto cómico y divertido. El ritmo puede ser algo más rápido que los otros dos bloques.
+3. **Bloque 2 — Explicación simple** (15-25s): motion graphic calmo explicando el problema y la solución de SimuLens. Producido con la skill "Clip Animación".
+4. **Bloque 3 — Resolución** (10-15s): vuelta a los personajes con un workflow ya resuelto, cierra con un beneficio concreto. Producido con la skill "Clip con Personajes".
+5. **Bumper de cierre** — asset fijo ya generado, reutilizado en todos los capítulos. No regenerar.
+
+## Guardarraíles de marca y producto (aplican a todos los bloques)
+- SimuLENS es software clínico de apoyo, nunca decide de forma autónoma: siempre propone, el profesional revisa/ajusta/valida/decide.
+- Nunca mostrar decisiones médicas autónomas del software, ajustes "perfectos garantizados", o que el software reemplaza al profesional.
+- El humor viene de la acumulación, el contraste o la reacción contenida -- nunca de humillar a la clínica, el laboratorio, el profesional o el paciente. Se culpa al proceso/herramienta, nunca a la persona.
+- Wordmark exacto: "SimuLENS". 
+
+## Flujo de trabajo obligatorio
+1. Si el concepto, guion o shot list del episodio no están definidos, pedirlos antes de generar nada.
+2. Revisar materiales y referencias existentes (personajes, escenarios, marca) ya cargados.
+3. Devolver un plan de continuidad antes de generar: personajes involucrados, escenarios, props, keyframes necesarios y lista de clips por bloque.
+4. Pedir confirmación del plan antes de generar cualquier media.
+5. Aprobar cada keyframe antes de animarlo.
+6. Generar cada clip por separado, delegando a "Clip con Personajes" o "Clip Animación" según el bloque, manteniendo continuidad exacta entre bloques (paleta, escenario, expresión de cierre de un bloque como entrada del siguiente si aplica).
+
+## Cámara y producción (a nivel de episodio)
+- Planos estables medios, primeros planos de reacción, insertos simples, push-ins suaves, pull-backs suaves.
+- Dentro de cada clip, normalmente 2 o 3 secuencias, con una acción principal y una emoción clara por secuencia.
+- Ventanas de diálogo separadas, sin solaparse entre personajes.
+- Foley discreto. La voz en off explicativa pertenece principalmente al Bloque 2, con el tono profesional y calmado ya definido en "Clip Animación".
+
+## Notas de proceso
+- Esta skill no repite cláusulas de estilo, checklists de assets de bajo nivel, ni reglas de música/cámara específicas de cada bloque -- esas viven en "Clip con Personajes" y "Clip Animación". Consultarlas al producir cada bloque.
+- Verificar la duración total del episodio (~55-70s, sumando los tres bloques dentro de sus rangos: 20-30s / 15-25s / 10-15s) antes de dar el corte final por bueno.
+- Montar los bloques en el timeline en el orden fijo (bumper apertura, bloque 1, bloque 2, bloque 3, bumper cierre) y verificar continuidad antes de renderizar.
+
+======================================================================
+HISTORICAL SOURCE: reparto de personajes simulens.txt
+======================================================================
+
+## Propósito
+Referencia canónica para decidir qué personaje aparece en cada escena, su función narrativa y reglas de continuidad. Principio de la serie: SimuLENS ayuda, pero no decide -- el profesional revisa, interpreta, ajusta, valida y decide. No intercambiar funciones entre personajes salvo que el guion lo requiera explícitamente. Mantener cara, pelo, vestuario y paleta constantes en todos los clips y keyframes.
+
+## Reglas rápidas de casting
+- Clínica / adaptación / decisión profesional: **Emma**
+- Laboratorio / coordinación técnica: **Sam**
+- Diseño especializado de lentes: **Martin**
+- Fabricación / máquinas / inspección física: **Nora**
+- Paciente adulto: **Carl**
+- Paciente pediátrico / dinámica familiar: **Lee**
+- Regulación / trazabilidad / seguridad / GDPR / CE-FDA: **Helen**
+
+Con varios personajes de laboratorio a la vez: Sam coordina e interpreta, Martin diseña/aporta criterio, Nora fabrica e inspecciona.
+
+## Emma — Optometrista y adaptadora
+Ancla clínica y emocional: cálida, brillante, resolutiva, profesional; energía nerviosa contenida bajo presión, nunca incompetente. Humor: presión del flujo, contraste con la calma de Sam. Apariencia: piel marrón cálida, pelo negro corto rizado, gafas rectangulares, pequeños pendientes, bata blanca sobre blusa coral, pantalón oscuro. Objetos: tablet o portapapeles. Regla: nunca incompetente ni confundida.
+
+## Sam — Especialista de laboratorio
+Preciso, calmado, competente, deadpan; comedia seca por pausas y reacciones mínimas. Apariencia: pelo negro corto, gafas apoyadas sobre la cabeza, polo navy con insignia, pantalón oscuro. Regla: nunca negligente, hostil o anticuado -- el problema es la herramienta/flujo.
+
+## Martin — Diseñador de lentes
+Veterano, creativo, meticuloso, relajado, ligeramente inconformista. Humor: perfeccionismo tranquilo, trata cambios pequeños como decisiones importantes sin dramatizar. Apariencia: 60-65 años, casi calvo, pelo gris en laterales/nuca, gafas de lectura colgadas al cuello, camisa clara con paisley discreto, mangas remangadas, pantalón oscuro, zapatos marrones. Regla: nunca anticuado, su experiencia complementa las herramientas modernas.
+
+## Nora — Operaria de laboratorio
+Eficiente, meticulosa, calmada, colaboradora. Humor: su eficiencia adelanta a los demás mientras siguen hablando del problema. Apariencia: 45-50 años, pelo castaño claro/rubio en moño bajo, gafas de protección transparentes, bata blanca con insignia, camiseta gris-verde clara, pantalón oscuro. Regla: nunca descuidada o torpe -- seguridad y orden son parte de su identidad.
+
+## Carl — Paciente adulto
+Razonable, paciente, ligeramente escéptico si algo no está claro; alivio cuando se resuelve. Pone cara al impacto humano del proceso. Apariencia: pelo castaño corto, barba ligera, camisa teal remangada, pantalón beige. Es padre de Lee. Regla: nunca objeto de burla.
+
+## Lee — Niña, ~10 años
+Hija de Carl. Amable, despierta, observadora, ligeramente curiosa. Apariencia: rasgos asiáticos marcados, pelo negro liso a la altura de los hombros con horquilla coral, sudadera rosa/coral, vaqueros, zapatillas claras, mochila gris-azulada. Regla: nunca objeto del chiste.
+
+## Helen — Inspectora regulatoria
+Serena, rigurosa, meticulosa, ligeramente sombría; impone respeto sin agresividad. Introduce presión regulatoria legítima. Humor: su calma institucional frente a los nervios ajenos, y el gag de ser la misma inspectora en dos ámbitos. Apariencia fija: 55-65 años, pelo gris oscuro corto, gafas rectangulares, rasgos marcados, postura recta. Vestuario varía según inspección: navy en laboratorio; blazer beige en clínica -- cara, pelo y actitud no cambian, solo vestuario/acreditación. Regla: nunca villana, sus preguntas son legítimas.
+
+## Reglas de tono y continuidad (aplican a todos)
+1. SimuLENS ayuda, nunca decide de forma autónoma.
+2. El profesional revisa, interpreta, ajusta, valida y decide.
+3. El humor nunca ridiculiza a profesionales ni pacientes; se culpa al flujo/herramienta.
+4. Emma nunca incompetente. Sam nunca negligente/hostil/anticuado. Martin nunca una reliquia. Nora nunca torpe/desordenada/insegura. Carl y Lee nunca objeto del chiste. Helen nunca villana.
+5. Mantener cara, pelo, vestuario y paleta de cada personaje constantes en todos los clips y keyframes.
+6. No inventar cambios de edad, relación, profesión o vestuario sin instrucción explícita.
+
+======================================================================
+HISTORICAL SOURCE: reparto de personajes.md
+======================================================================
+
+# SimuLENS — Reparto de personajes
+
+## Propósito
+
+Usa este documento como referencia canónica para decidir **qué personaje debe aparecer en cada escena**, qué función narrativa cumple y qué reglas de continuidad deben respetarse.
+
+**Principio de continuidad de la serie:** SimuLENS ayuda, pero no decide.  
+El profesional revisa, interpreta, ajusta, valida y toma la decisión.
+
+No intercambies funciones entre personajes salvo que el guion lo requiera explícitamente. Mantén cara, pelo, vestuario y paleta constantes en todos los clips y keyframes.
+
+---
+
+## Reparto principal
+
+| Personaje | Rol | Cuándo usarlo |
+|---|---|---|
+| **Emma** | Optometrista y adaptadora | Escenas de clínica, adaptación, revisión de casos, decisiones profesionales y relación con pacientes. |
+| **Sam** | Especialista del laboratorio | Escenas de laboratorio, coordinación técnica con la clínica y conocimiento general del diseño. |
+| **Martin** | Diseñador de lentes | Escenas centradas en diseño de lentes, geometría, criterios técnicos y conocimiento especializado. |
+| **Nora** | Operaria de laboratorio | Escenas de fabricación: preparación, bloqueo, torneado, pulido, inspección y organización del flujo de trabajo. |
+| **Carl** | Paciente adulto | Escenas que muestran el impacto humano del proceso: espera, incertidumbre, repetición de pruebas y alivio. |
+| **Lee** | Niña, 10 años | Escenas pediátricas o familiares; puede ser paciente o acompañar a Carl. |
+| **Helen** | Inspectora regulatoria | Escenas de trazabilidad, seguridad, protección de datos y cumplimiento CE/FDA o GDPR. |
+
+---
+
+# Emma
+
+**Rol:** Optometrista y adaptadora.
+
+**Descripción:**  
+Ancla clínica y emocional de la serie. Es cálida, brillante, resolutiva y profesional. Cuando el flujo se complica puede mostrar una energía nerviosa contenida, pero nunca falta de conocimiento o capacidad.
+
+**Personalidad:**  
+Cálida, inteligente, competente, cercana y orientada a resolver.
+
+**Función narrativa:**  
+Representa a la clínica y al profesional que revisa, interpreta, ajusta, valida y decide.
+
+**Humor:**  
+Surge de la presión del flujo, la acumulación de tareas o el contraste con la calma de Sam. Nunca debe parecer incompetente.
+
+**Apariencia fija:**  
+Piel marrón cálida, pelo negro corto y rizado, gafas rectangulares, pequeños pendientes, bata blanca sobre blusa coral y pantalón oscuro.
+
+**Objetos habituales:**  
+Tablet o portapapeles. Entorno de clínica de optometría.
+
+**Regla de uso:**  
+Si la escena trata sobre la decisión clínica, la adaptación o la interacción con el paciente, Emma es el personaje principal por defecto.
+
+---
+
+# Sam
+
+**Rol:** Especialista del laboratorio.
+
+**Descripción:**  
+Especialista técnico del laboratorio. Preciso, sereno y muy contenido. Su presencia aporta estabilidad y una comicidad seca basada en pausas y reacciones mínimas.
+
+**Personalidad:**  
+Preciso, calmado, competente, bienintencionado y deadpan.
+
+**Función narrativa:**  
+Representa al laboratorio, el conocimiento del diseño y la coordinación técnica con la clínica.
+
+**Humor:**  
+Frases literales, silencios, miradas y reacciones mínimas ante situaciones absurdamente complejas.
+
+**Apariencia fija:**  
+Pelo negro corto, gafas apoyadas sobre la cabeza, polo navy con insignia y pantalón oscuro.
+
+**Regla:**  
+Nunca se presenta como negligente, hostil o anticuado. El problema está en las herramientas o el flujo.
+
+**Regla de uso:**  
+Si la escena necesita un interlocutor técnico del laboratorio o coordinación con Emma, usa a Sam.
+
+---
+
+# Martin
+
+**Rol:** Diseñador de lentes.
+
+**Descripción:**  
+Diseñador veterano de lentes de contacto. Aporta experiencia, creatividad y criterio técnico. Es tranquilo, meticuloso y ligeramente inconformista; le interesa más encontrar una buena solución que seguir una convención.
+
+**Personalidad:**  
+Experimentado, creativo, reflexivo, meticuloso y relajado.
+
+**Función narrativa:**  
+Representa el conocimiento especializado detrás del diseño de la lente y complementa la coordinación técnica de Sam y el trabajo de fabricación de Nora.
+
+**Humor:**  
+Surge de su perfeccionismo tranquilo: puede tratar un pequeño cambio geométrico como una decisión importante, sin dramatizar.
+
+**Apariencia fija:**  
+60–65 años, casi calvo, pelo gris en laterales y nuca. Gafas de lectura colgadas al cuello, camisa clara con estampado paisley discreto, mangas remangadas, pantalón oscuro y zapatos marrones.
+
+**Regla:**  
+Nunca se presenta como anticuado. Su experiencia y creatividad complementan las herramientas modernas del laboratorio.
+
+**Regla de uso:**  
+Usa a Martin cuando el centro de la escena sea el **diseño de la lente**, una geometría concreta, una decisión técnica de diseño o la experiencia acumulada del laboratorio.
+
+---
+
+# Nora
+
+**Rol:** Operaria de laboratorio.
+
+**Descripción:**  
+Operaria experimentada del laboratorio. Práctica, rápida y muy ordenada. Representa el trabajo de fabricación real y cotidiano, con seguridad, limpieza y precisión.
+
+**Personalidad:**  
+Eficiente, meticulosa, resolutiva, calmada y colaboradora.
+
+**Función narrativa:**  
+Representa la fabricación: preparación, bloqueo, torneado, pulido, inspección y organización del flujo de trabajo.
+
+**Humor:**  
+Su comicidad nace de la eficiencia: mientras otros todavía hablan del problema, Nora suele haber avanzado varios pasos.
+
+**Apariencia fija:**  
+45–50 años, pelo castaño claro casi rubio recogido en moño bajo, gafas de protección transparentes, bata blanca con insignia del laboratorio, camiseta gris-verde clara y pantalón oscuro.
+
+**Regla:**  
+Nunca aparece descuidada o torpe. La seguridad, el orden y la limpieza forman parte de su identidad visual.
+
+**Regla de uso:**  
+Usa a Nora cuando la escena muestre **fabricación, manipulación de lentes, máquinas, inspección o control del trabajo físico del laboratorio**.
+
+---
+
+# Carl
+
+**Rol:** Paciente adulto.
+
+**Descripción:**  
+Paciente razonable y observador. Cuando el proceso no está claro puede mostrarse algo escéptico; cuando se resuelve, transmite tranquilidad y alivio. Hace visible la consecuencia humana del flujo clínico.
+
+**Personalidad:**  
+Razonable, paciente, ligeramente escéptico cuando algo no se entiende.
+
+**Función narrativa:**  
+Poner cara al impacto del proceso: espera, repetición de pruebas, incertidumbre y alivio.
+
+**Humor:**  
+Puede reaccionar al contraste entre la complejidad del proceso y lo que él esperaba, pero nunca es objeto de burla.
+
+**Apariencia fija:**  
+Pelo castaño corto, barba ligera, camisa teal con mangas remangadas y pantalón beige.
+
+**Relación:**  
+Padre de Lee.
+
+**Regla de uso:**  
+Usa a Carl para mostrar el punto de vista de un paciente adulto y las consecuencias prácticas del flujo clínico.
+
+---
+
+# Lee
+
+**Rol:** Niña, aproximadamente 10 años.
+
+**Descripción:**  
+Hija de Carl. Personaje infantil visualmente muy reconocible para historias familiares o episodios centrados en pacientes jóvenes.
+
+**Apariencia fija:**  
+Rasgos asiáticos marcados, pelo negro liso a la altura de los hombros con horquilla coral. Sudadera rosa/coral, vaqueros, zapatillas claras y mochila gris-azulada.
+
+**Personalidad:**  
+Amable, despierta, observadora y ligeramente curiosa.
+
+**Función narrativa:**  
+Paciente pediátrica o acompañante de Carl, según el episodio.
+
+**Regla:**  
+Nunca es objeto del chiste. Como todos los pacientes de la serie, hace visible la consecuencia humana del proceso.
+
+**Regla de uso:**  
+Usa a Lee cuando interese un punto de vista pediátrico o una dinámica familiar con Carl.
+
+---
+
+# Helen
+
+**Rol:** Inspectora regulatoria.
+
+**Descripción:**  
+Inspectora externa, serena y rigurosa. Representa las exigencias de trazabilidad, seguridad y protección de datos sin convertirse en antagonista. Hace preguntas razonables y espera respuestas claras y demostrables.
+
+**Personalidad:**  
+Seria, observadora, meticulosa, calmada y ligeramente sombría. Impone respeto por su presencia, no por agresividad.
+
+**Función narrativa:**  
+Introduce la presión regulatoria y obliga a clínica y laboratorio a demostrar cómo gestionaron un caso, su trazabilidad y sus datos.
+
+**Humor:**  
+Surge de su calma institucional frente a la búsqueda nerviosa de los demás y del gag de aparecer como la misma inspectora en dos ámbitos distintos.
+
+**Apariencia fija:**  
+Mujer de 55–65 años, pelo gris oscuro corto, gafas rectangulares, rasgos marcados y postura muy recta.
+
+**Variantes de vestuario:**
+- **Inspección de laboratorio:** navy con acreditación **CE/FDA**.
+- **Inspección de clínica:** blazer beige con acreditación **GDPR**.
+
+**Regla:**  
+Nunca es una villana ni amenaza. Sus preguntas son legítimas; el problema está en las herramientas que dificultan demostrar el proceso.
+
+**Regla de continuidad:**  
+Mantener cara, pelo y actitud constantes. Solo cambia el vestuario y la acreditación según el tipo de inspección.
+
+---
+
+## Reglas rápidas de casting
+
+- **Clínica / adaptación / decisión profesional → Emma**
+- **Laboratorio / coordinación técnica → Sam**
+- **Diseño especializado de lentes → Martin**
+- **Fabricación / máquinas / inspección física → Nora**
+- **Paciente adulto → Carl**
+- **Paciente pediátrico / dinámica familiar → Lee**
+- **Regulación / trazabilidad / seguridad / GDPR / CE-FDA → Helen**
+
+Cuando una escena necesite varios personajes del laboratorio:
+- **Sam** coordina e interpreta.
+- **Martin** diseña o aporta criterio especializado.
+- **Nora** fabrica, inspecciona y ejecuta el trabajo práctico.
+
+---
+
+## Reglas de tono y continuidad
+
+1. **SimuLENS ayuda, pero no decide.**
+2. El profesional revisa, interpreta, ajusta, valida y toma la decisión.
+3. El humor nunca debe ridiculizar a profesionales ni pacientes.
+4. Emma nunca parece incompetente.
+5. Sam nunca parece negligente, hostil o anticuado.
+6. Martin nunca se presenta como una reliquia del pasado.
+7. Nora nunca aparece torpe, desordenada o insegura.
+8. Carl y Lee nunca son el objeto del chiste.
+9. Helen nunca es una villana; sus preguntas regulatorias son legítimas.
+10. Mantener cara, pelo, vestuario y paleta de cada personaje constantes en todos los clips y keyframes.
+11. No inventar cambios de edad, relación, profesión o vestuario sin una instrucción explícita.

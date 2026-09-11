@@ -1,0 +1,3 @@
+- crear siempre una imagen ancla con los personajes colocados donde empieza el video
+- pasarle siempre la imagen base sin los personajes, para que no se invente los objetos que están detrás
+- decirle que respete fuertemente colores y textura (ver promt)

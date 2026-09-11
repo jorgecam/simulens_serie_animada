@@ -1,0 +1,11 @@
+- crear siempre una imagen ancla con los personajes colocados donde empieza el video
+- pasarle siempre la imagen base sin los personajes, para que no se invente los objetos que están detrás
+- trabajar siempre las pantallas de ordenador y móvil por separado
+- decirle que respete fuertemente colores y textura (ver promt)
+- para la música y efectos hay un prompt específico (ver prompt)
+- 
+
+
+CRITICAL CAMERA: The camera does not pan, dolly, or shift sideways at any point -- it stays in the same fixed position throughout. Zooming in/out is allowed and encouraged where it suits the beat (e.g. a push-in during the close-up moments), but no lateral or rotational camera movement.
+
+CRITICAL BACKGROUND: Use the attached "empty lab" reference (no characters) as the strong, authoritative reference for every object, surface, and piece of equipment -- light blue walls, blue cabinetry, wood countertop, computer desk and monitor, microscope, caliper, vials, polishing machine, wall shelf, lens-diagram posters, and every other visible prop. Copy their exact shapes, positions, colors, and details from that empty-room reference, since it is unobstructed and shows the true, complete environment. Use the "anchor with characters" image only to determine where Sam and Hellen are initially positioned and posed -- not for the appearance of any background object, since characters partially block that view. Do not invent, guess, restyle, or alter any background object; do not add anything not visible in the empty-room reference; do not move or relocate anything from where it sits there.

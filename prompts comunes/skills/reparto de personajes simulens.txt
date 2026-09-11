@@ -1,0 +1,42 @@
+## Propósito
+Referencia canónica para decidir qué personaje aparece en cada escena, su función narrativa y reglas de continuidad. Principio de la serie: SimuLENS ayuda, pero no decide -- el profesional revisa, interpreta, ajusta, valida y decide. No intercambiar funciones entre personajes salvo que el guion lo requiera explícitamente. Mantener cara, pelo, vestuario y paleta constantes en todos los clips y keyframes.
+
+## Reglas rápidas de casting
+- Clínica / adaptación / decisión profesional: **Emma**
+- Laboratorio / coordinación técnica: **Sam**
+- Diseño especializado de lentes: **Martin**
+- Fabricación / máquinas / inspección física: **Nora**
+- Paciente adulto: **Carl**
+- Paciente pediátrico / dinámica familiar: **Lee**
+- Regulación / trazabilidad / seguridad / GDPR / CE-FDA: **Helen**
+
+Con varios personajes de laboratorio a la vez: Sam coordina e interpreta, Martin diseña/aporta criterio, Nora fabrica e inspecciona.
+
+## Emma — Optometrista y adaptadora
+Ancla clínica y emocional: cálida, brillante, resolutiva, profesional; energía nerviosa contenida bajo presión, nunca incompetente. Humor: presión del flujo, contraste con la calma de Sam. Apariencia: piel marrón cálida, pelo negro corto rizado, gafas rectangulares, pequeños pendientes, bata blanca sobre blusa coral, pantalón oscuro. Objetos: tablet o portapapeles. Regla: nunca incompetente ni confundida.
+
+## Sam — Especialista de laboratorio
+Preciso, calmado, competente, deadpan; comedia seca por pausas y reacciones mínimas. Apariencia: pelo negro corto, gafas apoyadas sobre la cabeza, polo navy con insignia, pantalón oscuro. Regla: nunca negligente, hostil o anticuado -- el problema es la herramienta/flujo.
+
+## Martin — Diseñador de lentes
+Veterano, creativo, meticuloso, relajado, ligeramente inconformista. Humor: perfeccionismo tranquilo, trata cambios pequeños como decisiones importantes sin dramatizar. Apariencia: 60-65 años, casi calvo, pelo gris en laterales/nuca, gafas de lectura colgadas al cuello, camisa clara con paisley discreto, mangas remangadas, pantalón oscuro, zapatos marrones. Regla: nunca anticuado, su experiencia complementa las herramientas modernas.
+
+## Nora — Operaria de laboratorio
+Eficiente, meticulosa, calmada, colaboradora. Humor: su eficiencia adelanta a los demás mientras siguen hablando del problema. Apariencia: 45-50 años, pelo castaño claro/rubio en moño bajo, gafas de protección transparentes, bata blanca con insignia, camiseta gris-verde clara, pantalón oscuro. Regla: nunca descuidada o torpe -- seguridad y orden son parte de su identidad.
+
+## Carl — Paciente adulto
+Razonable, paciente, ligeramente escéptico si algo no está claro; alivio cuando se resuelve. Pone cara al impacto humano del proceso. Apariencia: pelo castaño corto, barba ligera, camisa teal remangada, pantalón beige. Es padre de Lee. Regla: nunca objeto de burla.
+
+## Lee — Niña, ~10 años
+Hija de Carl. Amable, despierta, observadora, ligeramente curiosa. Apariencia: rasgos asiáticos marcados, pelo negro liso a la altura de los hombros con horquilla coral, sudadera rosa/coral, vaqueros, zapatillas claras, mochila gris-azulada. Regla: nunca objeto del chiste.
+
+## Helen — Inspectora regulatoria
+Serena, rigurosa, meticulosa, ligeramente sombría; impone respeto sin agresividad. Introduce presión regulatoria legítima. Humor: su calma institucional frente a los nervios ajenos, y el gag de ser la misma inspectora en dos ámbitos. Apariencia fija: 55-65 años, pelo gris oscuro corto, gafas rectangulares, rasgos marcados, postura recta. Vestuario varía según inspección: navy en laboratorio; blazer beige en clínica -- cara, pelo y actitud no cambian, solo vestuario/acreditación. Regla: nunca villana, sus preguntas son legítimas.
+
+## Reglas de tono y continuidad (aplican a todos)
+1. SimuLENS ayuda, nunca decide de forma autónoma.
+2. El profesional revisa, interpreta, ajusta, valida y decide.
+3. El humor nunca ridiculiza a profesionales ni pacientes; se culpa al flujo/herramienta.
+4. Emma nunca incompetente. Sam nunca negligente/hostil/anticuado. Martin nunca una reliquia. Nora nunca torpe/desordenada/insegura. Carl y Lee nunca objeto del chiste. Helen nunca villana.
+5. Mantener cara, pelo, vestuario y paleta de cada personaje constantes en todos los clips y keyframes.
+6. No inventar cambios de edad, relación, profesión o vestuario sin instrucción explícita.

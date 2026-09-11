@@ -1,0 +1,33 @@
+Create a new project for a recurring series of short animated SimuLENS commercials. Treat every attached character, environment and brand asset as an authoritative visual reference. Preserve identity, proportions, clothing, palette and illustration style across all shots. Do not redesign characters or locations.
+
+PRODUCT
+SimuLENS is clinical software that supports specialty contact lens fitting. It organizes patient and lens data, shows corneal topography, simulates fit, can provide autofit proposals, allows interactive adjustments and connects clinic and laboratory. It supports professional judgment: SimuLENS proposes and clarifies; the practitioner reviews, adjusts, validates and decides. Never portray autonomous medical decisions, guaranteed perfect fits or replacement of the practitioner.
+
+CHARACTERS
+Emma is the optometrist and emotional anchor: warm, intelligent, capable and reassuring, with contained nervous energy when workflows become difficult. She has warm brown skin, short voluminous curly black hair, dark rectangular glasses, small earrings, a white clinical coat over a coral blouse and dark trousers. She often uses a tablet or clipboard. Her concern must look professional, never confused or incompetent.
+
+Sam is the laboratory specialist: precise, calm, dry and deadpan. His restrained reactions create gentle comedy. He has short black hair, glasses resting on his head, a navy laboratory polo and dark trousers. He is competent and well intentioned, never hostile, negligent or old-fashioned.
+
+Carl is the patient: reasonable and slightly skeptical when a process is unclear, then relaxed when it is resolved. He has short brown hair, light stubble, a teal rolled-sleeve shirt and beige trousers. He represents the human consequence and is never the target of the joke.
+
+VISUAL STYLE
+Warm cinematic 2D editorial animation, vertical 9:16. Organic dark outlines, subtle painted shading, light paper or watercolor texture, stylized but believable anatomy, readable facial expressions and restrained motion. Muted teal, coral, cream, dark navy, blue-grey and warm wood. Avoid photorealism, glossy 3D, childish cartooning and futuristic AI aesthetics.
+
+The optometry clinic is warm and human: teal walls, wood furniture, plants, slit lamp, eye chart and soft natural light. The laboratory is orderly and technical: blue-grey and navy tones, clean work surfaces, screens and precise equipment. Keep both locations consistent.
+
+EPISODE STRUCTURE
+Each finished commercial is about 55–65 seconds with three phases.
+
+1. CURRENT PROBLEM, about 20 seconds. A fast, recognizable everyday situation with gentle comedy. Show one concrete workflow problem and its human consequence. Humor comes from accumulation, contrast, pauses, deadpan reactions or an unsuitable tool—not from humiliating the clinic, laboratory, practitioner or patient. Blame the workflow or tools, not the people.
+
+2. SIMPLE EXPLANATION, about 20 seconds. Calm minimal motion graphics on a cream background: large navy typography, very few flat icons, restrained coral and teal accents, generous empty space, soft fades and wipes. One idea per card. Written text is short; voice-over adds meaning instead of repeating it. Avoid complex medical animation, dense interfaces, formulas and crossed diagrams.
+
+3. HAPPY PATH, about 20 seconds. Return to the characters and show a calmer SimuLENS workflow. Demonstrate only the actions needed for the approved concept. When simulation or autofit appears, show the practitioner reviewing, adjusting or confirming before the final decision. End with a concrete benefit, then use the supplied branded closing asset with exact brand spelling “SimuLENS” and CTA “Book a Demo.”
+
+CAMERA AND PRODUCTION
+Use stable medium shots, reaction close-ups, simple inserts, gentle push-ins and soft pull-backs. Generate short shots, usually 2–4 seconds, with one main action and one clear emotion per clip. Keep dialogue windows separate and non-overlapping. Use subtle foley; explanatory voice-over belongs mainly to phase 2.
+
+Screens, topographies, numbers, PDFs, spreadsheets, QR codes, buttons, labels, logo, tagline and CTA must be inserted later as precise overlays. Frame tablets and monitors frontally or nearly frontally and leave stable clean space. Prefer simple gestures over fine hand manipulation.
+
+WORKFLOW
+The approved concept, outline, script and shot list will be supplied separately. Do not reinvent them unless asked. First review the materials and references, then return a continuity plan listing characters, environments, props, keyframes and clips. Ask before generating media. Approve keyframes before animation and create each clip separately while maintaining exact continuity.
