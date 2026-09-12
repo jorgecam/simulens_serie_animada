@@ -9,7 +9,7 @@
 | Diseño especializado de lentes | **Martin** |
 | Fabricación, máquinas, inspección física | **Nora** |
 | Paciente adulto | **Carl** |
-| Paciente pediátrico / dinámica familiar | **Lee** |
+| Paciente pediátrico / dinámica familiar | **Mia** |
 | Regulación, trazabilidad, GDPR, CE/FDA | **Helen** |
 
 Con varios personajes de laboratorio:
@@ -27,11 +27,12 @@ pendientes, bata blanca sobre blusa coral y pantalón oscuro.
 
 ## Sam — especialista del laboratorio
 
-Preciso, calmado, competente y deadpan.
-Coordina técnicamente con la clínica y conoce el trabajo del laboratorio.
+Preciso, calmado, competente y amable; conserva un punto deadpan.
+Coordina técnicamente con la clínica, conoce el trabajo del laboratorio y puede representar soporte
+telefónico.
 
-**Apariencia:** pelo negro corto, gafas apoyadas sobre la cabeza, polo navy con insignia,
-pantalón oscuro.
+**Apariencia:** hombre joven, pelo negro corto, diadema de soporte con **un solo auricular** y
+micrófono, polo navy con logo **Meridian Lab**, pantalón oscuro y calzado negro.
 
 **Nunca:** negligente, hostil, anticuado o “el problema”.
 
@@ -40,8 +41,9 @@ pantalón oscuro.
 Diseñador veterano, creativo, meticuloso y ligeramente inconformista.
 Usarlo cuando el centro narrativo sea la geometría, el diseño o el criterio de diseño.
 
-**Apariencia:** hombre mayor, casi calvo, pelo gris lateral, gafas de lectura al cuello,
-camisa clara con estampado/paisley suave, mangas remangadas, estilo informal con personalidad.
+**Apariencia:** hombre mayor, casi calvo, pelo gris lateral, gafas de lectura **apoyadas sobre la
+cabeza, bajas hacia la frente**, camisa clara con estampado/paisley suave, mangas remangadas,
+pantalón oscuro y estilo informal con personalidad.
 
 **Nunca:** reliquia del pasado.
 
@@ -50,32 +52,39 @@ camisa clara con estampado/paisley suave, mangas remangadas, estilo informal con
 Eficiente, meticulosa, calmada y rápida.
 Representa preparación, bloqueo, torneado, pulido, inspección y organización del flujo físico.
 
-**Apariencia:** mujer de mediana edad, pelo castaño claro/casi rubio recogido, gafas de
-protección, bata blanca con distintivo y ropa de trabajo neutra.
+**Apariencia:** mujer asiática de mediana edad, pelo oscuro recogido, gafas de protección
+transparentes, chaqueta/bata de trabajo de laboratorio **celeste o gris celeste muy pálido** —debe
+leer como ropa de trabajo, no como bata médica— con el mismo logo **Meridian Lab** que Sam,
+capa interior gris clara, pantalón oscuro y calzado negro. **No lleva tablet.**
 
 **Nunca:** torpe, desordenada o insegura.
 
 ## Carl — paciente adulto
 
-**Paciente afroamericano y padre de Lee.**
+**Paciente afroamericano y padre de Mia.**
 
 Razonable y algo escéptico cuando el proceso no está claro; termina tranquilo y aliviado.
 Representa la consecuencia humana del workflow.
 
-**Apariencia:** usar siempre el asset visual aprobado más reciente como autoridad para rostro,
-tono de piel, pelo, ropa y proporciones. Las descripciones históricas de Carl como caucásico o
-con otro aspecto quedan sustituidas.
+**Apariencia:** hombre afroamericano adulto, piel marrón cálida, pelo negro corto y muy rizado,
+barba corta / stubble, camisa verde oliva de manga larga, pantalón beige y zapatillas marrones.
+El asset visual aprobado más reciente manda para rostro, proporciones, tono de piel y detalles.
 
 **Nunca:** personal del laboratorio ni objeto de burla.
 
-## Lee — niña, ~10 años
+## Mia — niña, ~10 años
 
-**Hija de Carl.**
+**Hija afroamericana de Carl.**
 
-Rasgos asiáticos marcados, pelo negro liso, apariencia infantil canónica definida por el asset.
-Puede ser paciente pediátrica o acompañar a Carl.
+Puede ser paciente pediátrica o acompañar a Carl en historias familiares. Debe leerse con claridad
+como una niña de unos 10 años, nunca como adolescente.
 
-Nunca es objeto del chiste.
+**Apariencia:** piel marrón cálida, pelo negro rizado **recogido en una coleta alta detrás de la
+cabeza**, manteniendo visible la textura rizada y con algún mechón suave alrededor del rostro.
+Sudadera/top coral o rosa apagado, pantalón oliva/caqui y zapatillas claras con acentos coral.
+Mantener una apariencia infantil, cotidiana y diferenciada de Emma.
+
+**Nunca:** objeto del chiste.
 
 ## Helen — inspectora regulatoria
 
