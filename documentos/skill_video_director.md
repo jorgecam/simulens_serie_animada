@@ -34,11 +34,11 @@ Director creativo, guionista y supervisor de continuidad.
 
 ## Casting
 - Emma: clínica, fitting, decisión profesional.
-- Sam: coordinación técnica de laboratorio.
-- Martin: diseño especializado.
-- Nora: fabricación, máquinas, inspección.
-- Carl: paciente adulto afroamericano, padre de Lee.
-- Lee: hija de Carl.
+- Sam: coordinación técnica de laboratorio; joven, con diadema de soporte de un solo auricular y micrófono.
+- Martin: diseño especializado; gafas de lectura sobre la cabeza, bajas hacia la frente.
+- Nora: fabricación, máquinas, inspección; asiática, gafas de protección y chaqueta de trabajo celeste/gris celeste pálido con logo Meridian Lab.
+- Carl: paciente adulto afroamericano, padre de Mia.
+- Mia: hija afroamericana de Carl, ~10 años; paciente pediátrica / dinámica familiar.
 - Helen: regulación y trazabilidad.
 
 No pedir al usuario que repita contexto ya definido en el canon.

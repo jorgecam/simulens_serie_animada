@@ -50,7 +50,7 @@ Escenario cálido y humano:
 - iluminación suave.
 
 Emma es el personaje clínico por defecto.
-Carl/Lee aparecen como pacientes o familia.
+Carl/Mia aparecen como pacientes o familia.
 
 ## 4. Pantallas
 
