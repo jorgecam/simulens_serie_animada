@@ -1,0 +1,30 @@
+Vertical 9:16 animated SimuLENS video, Clip 2 of Phase 1, duration about 11 seconds, one coherent clip with several internal beats. Continue directly from Clip 1. Use all uploaded reference images as fixed authoritative references for Emma, Sam, the clinic, the laboratory, the topographer, and the approved illustration style. Preserve exact character identity, headset, clothing, room layout, device design, texture and palette. Do not redesign anything.
+
+Warm cinematic 2D editorial animation, organic dark outlines, soft painted shading, very subtle paper texture, muted teal, coral, cream, navy, blue-grey and warm wood palette. Restrained motion, stable camera, gentle comedic tone. Light ambient funny music, subtle and warm, low under dialogue.
+
+Beat 1, 0–2 seconds, medium shot in the clinic:
+Emma looks mildly exasperated but not dramatic. She picks up her phone and dials Sam. Brief anticipation beat.
+
+Beat 2, 2–9 seconds, split screen, clinic on left and laboratory on right:
+On the left, Emma at her desk in the clinic, phone to her ear. On the right, Sam in the approved laboratory, answering the phone. Sam must match the latest approved asset exactly. Keep both environments consistent with the references. Use the dialogue exactly as written below. Each line is spoken separately, with small comedic pauses and no overlap.
+
+Emma:
+“Hi Sam, I just got a new tuh-PAH-gruh-fer and I’m trying to fit your lenses. How do I do it?”
+
+Sam pauses briefly, slightly uncomfortable but collaborative.
+
+Sam:
+“I’m sorry... our designs aren’t on this tuh-PAH-gruh-fer.”
+
+Emma, puzzled but calm:
+“So what do we do?”
+
+Sam hesitates again, warm but a little sheepish:
+“Send me a photo of the exam on WhatsApp, I’ll see what I can do to fit the lens.”
+
+Beat 3, 9–11 seconds, medium close shot back in the clinic:
+Emma lowers the phone, looks between the Topo-O-Meter and her phone, then raises the phone to photograph the monitor. The monitor shows a simple circular corneal topography map with colored rings. Her expression is amused resignation and mild disbelief.
+
+End on the phone-camera flash filling the frame.
+
+Audio: soft clinic ambience in Emma’s shots, soft laboratory ambience in Sam’s shots, warm phone-call voice quality, clear pauses before “WhatsApp,” soft phone-handling sound, soft camera shutter and flash at the end. Use spoken form “tuh-PAH-gruh-fer.” No subtitles, no extra dialogue, no extra characters, no dense UI, no photorealism, no 3D, no camera shake, no exaggerated acting.

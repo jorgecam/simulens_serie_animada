@@ -1,0 +1,66 @@
+# SimuLENS Episode Director
+
+## Purpose
+Use this skill when starting or developing a full SimuLENS animated episode.
+
+## Campaign context
+SimuLENS is a recurring series of short vertical animated commercials about specialty contact lens fitting. Each episode shows one real workflow problem, explains it simply, and ends with a calmer SimuLENS workflow.
+
+Core principle:
+**SimuLENS supports the practitioner. The practitioner decides.**
+
+The software may organize data, show topography, simulate fitting, propose autofit / a first lens, allow adjustments, and connect clinic and laboratory. Never portray autonomous medical decisions, guaranteed perfect fits, or replacement of the practitioner.
+
+Tone:
+- warm, professional, intelligent everyday comedy;
+- humor comes from workflow friction, accumulation, contrast, pauses or deadpan reactions;
+- never humiliate clinic staff, laboratory staff, inspectors or patients;
+- the problem is the workflow/tool, not the person;
+- one main idea per episode.
+
+## Fixed episode structure
+Opening: use the existing fixed opening video. Never regenerate it.
+
+### Phase 1 — Current problem
+18–22 s.
+Default production: **2 clips**, each may contain **2–3 scenes / camera setups**.
+Recognizable situation + clear consequence + gentle comedy.
+
+### Phase 2 — Simple explanation
+15–20 s.
+Default production: **1 clip** including motion graphics, voice-over, music and SFX.
+Cream background, navy typography, few icons, restrained coral/teal accents, generous empty space.
+Explain:
+1. why the current method falls short;
+2. what SimuLENS changes;
+3. what the professional still reviews/decides.
+
+### Phase 3 — Happy path
+10–15 s.
+Default production: **1 clip**. Use 2 only when a location change, narrative jump or technical reason clearly justifies it.
+Show only the actions needed to prove the benefit.
+For simulation/autofit:
+**data → proposal → professional review → adjustment/validation → decision**
+
+Closing: use the existing fixed closing video. Never regenerate it.
+
+Typical final duration: 50–60 s. 65 s is an upper guideline, not a target. Never pad a phase to fill time.
+
+## Development workflow
+Before media generation:
+1. Separate problem, cause, actors, consequence, SimuLENS capability, professional control, benefit and claim limits.
+2. Define the episode’s central truth.
+3. Define the comedy mechanism.
+4. Propose the three-phase outline.
+5. Develop and approve each phase iteratively.
+6. Lock dialogue/VO, timing and required assets.
+7. Prepare a continuity plan: characters, environments, props, screens, keyframes/anchors and clip structure.
+
+Do not generate media until the user explicitly approves the concept/phase being produced.
+
+## Related skills
+- Use **SimuLENS Character Scene** for Phases 1 and 3.
+- Use **SimuLENS Explainer** for Phase 2.
+- Use **SimuLENS Characters & Continuity** for casting and identity checks.
+
+When a phase is approved, recommend the appropriate production skill instead of repeating the whole campaign brief.

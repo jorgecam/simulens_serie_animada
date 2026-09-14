@@ -1,0 +1,18 @@
+Create Clip 1 of Phase 1 of a vertical 9:16 SimuLENS animated video, about 11 seconds long.
+
+Use the uploaded assets as authoritative references. Preserve the exact approved look of Emma, the clinic, the Topo-O-Meter device, the screen mockups, and the overall 2D editorial style. Do not redesign characters, rooms, props, device geometry, UI layout, color palette or texture.
+
+Style: warm cinematic 2D editorial animation, organic dark outlines, soft painted shading, very subtle paper texture, muted teal, coral, cream, navy, blue-grey and warm wood palette. Stable camera, restrained motion, gentle comedic tone. Light subtle ambient funny music under the dialogue.
+
+Story:
+Emma is in her clinic at her desk, looking at her computer and thinking out loud that buying a topographer would help her fit contact lenses better. She types and clicks confidently as if ordering one online. A box appears on the desk. She opens it excitedly and finds the Topo-O-Meter topographer inside. Then cut to the same device already installed beside her monitor. Emma is pleased and says that she bets she can simulate Sam’s designs with it.
+
+Then show clearly the approved topographer software screen. It must look like simple topographer software. Show the Topo-O-Meter logo and name at the top, a small topography map, a large clear search area, “Meridian Lab,” and very clearly a red X with “Not Found” plus the message “No design found for this Laboratory.”
+
+Keep the pacing brisk and clear. End on either the screen itself or Emma’s small disappointed reaction.
+
+Dialogue:
+Emma: “I think a tuh-PAH-gruh-fer will be great to fit my lenses”
+Emma: “I bet I can simulate Sam’s designs with this!”
+
+Do not add extra dialogue. No subtitles. No extra people. No dense interface. No photorealism or 3D look. Keep everything visually consistent with the supplied assets.

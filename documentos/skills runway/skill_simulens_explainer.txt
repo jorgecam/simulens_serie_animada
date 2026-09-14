@@ -1,0 +1,69 @@
+# SimuLENS Explainer
+
+## Purpose
+Use for Phase 2: the calm explanatory motion-graphic block between the problem and the happy path.
+
+## Default format
+**15–20 seconds, one single generated clip** containing:
+- animation;
+- voice-over;
+- music;
+- sound effects.
+
+Vertical 9:16, 720p.
+
+## Narrative job
+The explainer must answer three things clearly:
+1. Why does the current method/tool fall short?
+2. What specific mechanism does SimuLENS add?
+3. What does the professional still review, adjust, validate or decide?
+
+Do not invent the problem, product capability or claim. Use the approved episode concept.
+
+## Visual language
+Warm SimuLENS editorial motion graphics:
+- cream background;
+- large navy typography;
+- very few simple icons/shapes;
+- restrained coral and teal accents;
+- generous empty space;
+- smooth minimal transitions;
+- very subtle paper texture;
+- no extra grain/noise.
+
+Keep one idea per card/beat.
+Avoid dense diagrams, formulas, photorealism, glossy 3D, complex medical animation, floating parameters or full clinical interfaces.
+
+## On-screen text
+Short, large and readable.
+Voice-over should complement the text, not repeat it word-for-word.
+
+For critical wording, product names, numbers, tables, QR codes or complex graphics, use a prepared reference asset rather than asking the video model to improvise them.
+Simple generic icons do not require a separate asset unless visual continuity demands it.
+
+Brand spelling must always be **SimuLENS**.
+
+## Voice-over
+Warm, calm, professional and concise. No urgency.
+Spoken pronunciation:
+- topographer → **tuh-POG-ruh-fer**
+- SimuLENS → **SIM-yoo-lenz**
+Visible text keeps standard spelling.
+
+## Music and SFX
+Music should be soft, calm and reassuring, clearly less comic than Phase 1.
+Use subtle transitions, soft wipes/chimes and restrained SFX to support comprehension.
+
+## Prompt structure
+1. approved problem + solution mechanism;
+2. visual style;
+3. duration / 9:16 / 720p;
+4. Beat 1: current limitation;
+5. Beat 2: SimuLENS mechanism;
+6. Beat 3: professional control / concrete benefit;
+7. exact on-screen text;
+8. full voice-over;
+9. music + SFX;
+10. final transition toward Phase 3.
+
+Prefer a simple, communicative explanation over technical completeness.

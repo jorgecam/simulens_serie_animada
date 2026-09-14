@@ -1,0 +1,66 @@
+# SimuLENS Character Scene
+
+## Purpose
+Use for narrative scenes with recurring characters, mainly Phase 1 and Phase 3.
+
+## Visual rule
+Use approved visual references as authoritative.
+Style: **warm cinematic 2D editorial animation**, organic dark outlines, soft painted/cel shading, very subtle paper texture, muted teal/coral/cream/navy/blue-grey/warm wood.
+
+**Preserve the exact texture and palette of the supplied reference images. Do not add extra grain, noise or texture that is not present in the reference.**
+
+## Reference hierarchy
+Before writing the generation prompt, identify the references actually needed:
+1. **Empty background** = authoritative environment, objects, machinery, palette and layout.
+2. **Character sheet** = identity, face, hair, clothing and proportions.
+3. **Anchor / first frame** = starting position, pose and framing.
+4. **Screen asset** = exact monitor/tablet/phone/TV content when precision matters.
+5. **Specific prop asset** = any important object not already defined.
+6. **Previous final frame** = continuity when a direct visual handoff is needed.
+
+Never reconstruct hidden background objects from an anchor containing characters.
+
+## Phase defaults
+### Phase 1
+18–22 s total, normally **2 generated clips**.
+Each clip may contain **2–3 scenes / camera setups**. Seedance 2.5 can handle internal cuts and reframing; do not fragment into microclips without a reason.
+
+### Phase 3
+10–15 s total, normally **1 generated clip**.
+Use 2 only for a clear location change, narrative jump or technical continuity need.
+
+## Camera
+Stable and controlled. Medium shots, reaction close-ups, simple inserts, clean internal cuts, gentle push-ins/pull-backs.
+Avoid shaky camera, orbiting, aggressive zooms and unnecessary lateral movement.
+
+The unit of clarity is the **beat**, not the file. Each beat should have one clear action and emotion.
+
+## Dialogue
+Keep dialogue verbatim unless a phonetic spelling is required for speech.
+Do not overlap character voices unless explicitly requested.
+If the line cannot fit naturally, shorten the script or increase duration instead of accelerating speech.
+
+Speech pronunciation:
+- topographer → **tuh-POG-ruh-fer**
+- SimuLENS → **SIM-yoo-lenz**
+Visible text keeps normal spelling.
+
+## Music and SFX
+Default character-scene music: light, comic and instrumental, with **pizzicato / marimba / ukulele** as preferred colors because they match the established series.
+Keep it subtle and professional, never childish or slapstick-heavy.
+Use restrained punctual SFX/foley; do not stack comic effects.
+
+## Prompt structure
+1. authoritative references;
+2. visual style;
+3. duration + vertical 9:16 + 720p;
+4. short environment note;
+5. internal scenes / beats in order;
+6. character actions, expressions and verbatim dialogue;
+7. camera changes/cuts;
+8. music + foley/SFX;
+9. critical continuity restrictions;
+10. end pose/frame if needed for the next clip.
+
+## Screens
+Do not rely on the video model for dense or exact clinical UI, numbers, PDFs, spreadsheets, QR codes or critical text. Use prepared screen assets when accuracy matters.

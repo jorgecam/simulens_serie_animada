@@ -1,0 +1,25 @@
+Vertical 9:16 animated SimuLENS video, one continuous take, exactly 30 seconds, brisk compact pacing. Use uploaded references as fixed visuals for Emma, Sam, clinic, laboratory, corneal device, illustration style, both UI mockups. Preserve exact character faces, proportions, hairstyles, glasses, clothing, colors, room layouts, device design throughout — no redesigns.
+
+Warm cinematic 2D editorial animation, dark outlines, soft painted shading, paper texture, muted teal/coral/cream/navy/blue-grey/wood palette, restrained motion, stable camera, gentle comedic tone. Dialogue in natural American/neutral English. Light ambient funny music under dialogue, subtle, cartoon-ish, low.
+
+Shot 1 (0–4s), medium, Emma's clinic: Emma (brown skin, curly black hair, dark glasses, white coat over coral blouse) at her wood desk, types confidently, pleased. Screen uses store UI reference: three topographers with prices appear. She says "I think a topographer will be great to better fit my lenses" and orders it.
+
+Shot 2 (4–5.5s): shipping box appears, no delivery person. Emma opens it excitedly — unbranded corneal device inside, matching reference exactly. Cut to device set up beside her monitor.
+
+Shot 3 (5.5–8.5s), monitor insert: Emma says "I bet I can simulate Sam's designs with this!". Screen uses lens-fitting UI reference: searcher reads "Search laboratory designs", then centered text exactly "No compatible designs found". Hold briefly, readable.
+
+Shot 4 (8.5–9.5s), medium on Emma: bright look drops to mild comedic exasperated frown. Picks up phone, dials, brief anticipation beat.
+
+Shot 5 (9.5–28.5s), split screen, clinic left / lab right: Emma phone to ear left; Sam (short black hair, glasses on head, navy lab polo, calm) answers right. Keep environments consistent with references. Dialogue exactly as written, natural unhurried pace filling this 19s window, each line separate, short comedic pauses, no overlap:
+Emma: "Hi Sam, I just got a new tuh-PAH-gruh-fer and I'm trying to fit your lenses. How do I do it?"
+[pause, Sam hesitates, nervous "uh...", scratches head, mild dismay + nervous smile]
+Sam: "I'm sorry... our designs aren't on this tuh-PAH-gruh-fer."
+Emma, puzzled but calm: "So what do we do?"
+[Sam hesitates again, "um...", scratching head]
+Sam, warm but sheepish: "Send me a photo of the exam on WhatsApp, I'll see what I can do to fit the lens."
+
+Shot 6 (28.5–30s), medium close, Emma: lowers phone, looks between device and phone, raises phone to photograph monitor showing circular corneal topography map (rings blue?green?yellow?red). Amused resignation, mildly comedic. Camera flash fills frame then fades out over the final second, ending on a calm still hold, a resting pause before the video ends.
+
+Audio: soft clinic ambience on Emma's shots, soft lab ambience on Sam's shots, both subtle during split screen. Warm phone-call voice quality both sides. Dialogue exactly as scripted, clear comedic pauses, especially before "WhatsApp". Keyboard sounds Shot 1, box-opening Shot 2, soft phone-handling sound, soft camera shutter+flash sound at end, flash sound decaying as flash fades over the last second.
+
+Use spoken form "tuh-PAH-gruh-fer" everywhere. No subtitles, no extra dialogue, no extra characters, no real brands, no dense interface, no photorealism, no 3D look, no camera shake, no exaggerated acting. Preserve character and room consistency throughout.

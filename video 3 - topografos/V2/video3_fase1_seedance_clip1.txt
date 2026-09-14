@@ -1,0 +1,21 @@
+Vertical 9:16 animated SimuLENS video, Clip 1 of Phase 1, duration about 11 seconds, one coherent clip with several internal beats. Use all uploaded reference images as fixed authoritative references for Emma, the clinic, the corneal topographer, the approved UI mockups, and the illustration style. Preserve exact character identity, hairstyle, glasses, clothing, colors, room layout, device design, texture and palette. Do not redesign anything.
+
+Warm cinematic 2D editorial animation, organic dark outlines, soft painted shading, very subtle paper texture, muted teal, coral, cream, navy, blue-grey and warm wood palette. Restrained motion, stable camera, gentle comedic tone. Light ambient funny music, subtle and warm, low under dialogue.
+
+Beat 1, 0–3 seconds, medium shot in Emma’s clinic:
+Emma sits at her wood desk in the approved clinic. She is thoughtful, professional and slightly excited. She looks at her computer monitor, types on the keyboard and clicks confidently, as if ordering a device online. The monitor can briefly show a simple product-store style layout, but keep it clear and not dense. Emma says naturally in English:
+“I think a tuh-PAH-gruh-fer will be great to fit my lenses”
+
+Beat 2, 3–5 seconds:
+A shipping box appears on the desk. No delivery person is shown. Emma opens the box with genuine excitement. Inside is the exact approved Topo-O-Meter corneal topographer. Use a quick clean cut to the same device already installed beside her monitor.
+
+Beat 3, 5–8 seconds, medium shot or slight push-in:
+Emma looks pleased and says cheerfully:
+“I bet I can simulate Sam’s designs with this!”
+
+Beat 4, 8–11 seconds, monitor-focused shot:
+Show the approved topographer software screen clearly and simply. It must look like the software of the topographer, not a generic website. Use the approved screen design as authoritative. Show the Topo-O-Meter logo and name at the top, a simple topography map, a large search area, the text “Meridian Lab”, and very clearly a red X with “Not Found” and the message “No design found for this Laboratory.” Keep the layout clean, schematic and easy to read.
+
+End the clip on this failed-search screen, or on Emma reacting with a small drop in expression as she realizes the design is not there.
+
+Audio: soft clinic ambience, keyboard sounds, mouse click, box-opening sounds. Dialogue in natural American or neutral English. Use spoken form “tuh-PAH-gruh-fer.” No subtitles, no extra characters, no dense UI, no photorealism, no 3D, no camera shake, no exaggerated acting.

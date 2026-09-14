@@ -1,0 +1,21 @@
+Create Clip 2 of Phase 1 of a vertical 9:16 SimuLENS animated video, about 11 seconds long, continuing directly from Clip 1.
+
+Use the uploaded assets as authoritative references. Preserve the exact approved look of Emma, Sam, the clinic, the laboratory, the Topo-O-Meter device, and the 2D editorial style. Do not redesign characters, props, rooms, UI, color palette or texture.
+
+Style: warm cinematic 2D editorial animation, organic dark outlines, soft painted shading, very subtle paper texture, muted teal, coral, cream, navy, blue-grey and warm wood palette. Stable camera, restrained motion, gentle comedic tone. Light subtle ambient funny music under the dialogue.
+
+Story:
+Emma reacts to not finding the Meridian Lab design. She picks up the phone and calls Sam. Show a split screen with Emma in the clinic on the left and Sam in the laboratory on the right. Sam is calm and collaborative, but slightly embarrassed. Keep the dialogue exactly as written. After the call, cut back to Emma in the clinic. She lowers the phone, looks between the Topo-O-Meter and her phone, then photographs the monitor with her mobile. The monitor shows a colored corneal topography map. End on the camera flash filling the frame.
+
+Dialogue:
+Emma: “Hi Sam, I just got a new tuh-PAH-gruh-fer and I’m trying to fit your lenses. How do I do it?”
+Sam: “I’m sorry... our designs aren’t on this tuh-PAH-gruh-fer.”
+Emma: “So what do we do?”
+Sam: “Send me a photo of the exam on WhatsApp, I’ll see what I can do to fit the lens.”
+
+Use short comedic pauses and no overlapping speech.
+
+Audio:
+Soft clinic ambience on Emma’s side, soft laboratory ambience on Sam’s side, warm phone-call tone, subtle phone handling, and a soft camera shutter and flash at the end.
+
+No subtitles. No extra dialogue. No extra characters. No dense interface. No photorealism. No 3D. No camera shake. No exaggerated acting. Keep everything consistent with the supplied assets.

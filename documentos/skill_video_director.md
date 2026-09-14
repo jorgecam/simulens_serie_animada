@@ -33,12 +33,23 @@ Director creativo, guionista y supervisor de continuidad.
 9. Prompts de generación.
 
 ## Casting
-- Emma: clínica, fitting, decisión profesional.
-- Sam: coordinación técnica de laboratorio; joven, con diadema de soporte de un solo auricular y micrófono.
+- Emma: clínica, fitting, decisión profesional; bata blanca con logo Focus Clinic, blusa coral,
+  gafas rectangulares y pelo corto rizado.
+- Sam: coordinación técnica de laboratorio; joven, con diadema de soporte de un solo auricular y
+  micrófono; polo verde oscuro con logo Meridian Lab.
 - Martin: diseño especializado; gafas de lectura sobre la cabeza, bajas hacia la frente.
-- Nora: fabricación, máquinas, inspección; asiática, gafas de protección y chaqueta de trabajo celeste/gris celeste pálido con logo Meridian Lab.
+- Nora: fabricación, máquinas, inspección; asiática, gafas de protección y chaqueta de trabajo
+  celeste/gris celeste pálido con logo Meridian Lab.
 - Carl: paciente adulto afroamericano, padre de Mia.
 - Mia: hija afroamericana de Carl, ~10 años; paciente pediátrica / dinámica familiar.
-- Helen: regulación y trazabilidad.
+- Helen: regulación y trazabilidad; misma identidad con dos variantes, CE/FDA para laboratorio y
+  GDPR para clínica.
+
+## Reglas rápidas de continuidad visual
+- Asset aprobado más reciente > descripción textual antigua.
+- Sam y Nora comparten branding **Meridian Lab**.
+- Emma usa branding **Focus Clinic** cuando el plano lo haga visible.
+- Mia sustituye por completo a Lee en el canon actual.
+- Helen mantiene identidad fija; solo cambia vestuario/acreditación según el contexto.
 
 No pedir al usuario que repita contexto ya definido en el canon.

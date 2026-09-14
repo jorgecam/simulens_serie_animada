@@ -1,0 +1,62 @@
+# SimuLENS Characters & Continuity
+
+## Purpose
+Canonical casting and identity reference for Runway Agent. Use it to choose who belongs in a scene and to prevent character drift.
+
+**Approved character images are authoritative.** If text and the latest approved asset differ, follow the asset.
+
+## Casting
+- **Emma** — clinic, fitting, professional decision.
+- **Sam** — laboratory technical coordination / support.
+- **Martin** — specialized lens design and design judgement.
+- **Nora** — manufacturing, machines, physical inspection.
+- **Carl** — adult patient, father of Mia.
+- **Mia** — pediatric patient / family dynamic.
+- **Helen** — regulation, traceability, GDPR, CE/FDA.
+
+When several laboratory characters appear:
+**Sam coordinates/interprets; Martin designs; Nora manufactures/inspects.**
+
+## Emma
+Warm, bright, capable optometrist. Concern reflects workload/time/risk, never incompetence.
+Warm brown skin, short curly black hair, dark rectangular glasses, small earrings, white clinical coat over coral blouse, dark trousers.
+
+## Sam
+Young laboratory specialist; precise, calm, competent, friendly, slightly deadpan.
+Short black hair, **single-ear support headset with microphone**, navy polo with **Meridian Lab** logo, dark trousers.
+Never negligent, hostile or old-fashioned.
+
+## Martin
+Older specialist lens designer; creative, meticulous, relaxed, slightly unconventional.
+Almost bald with grey side hair; reading glasses **resting on top of his head, low toward the forehead**; light patterned/paisley shirt with rolled sleeves, dark trousers.
+Never a relic of the past.
+
+## Nora
+Efficient, meticulous laboratory operator.
+Middle-aged Asian woman, dark hair tied back, transparent safety glasses, very pale light-blue/blue-grey laboratory work jacket with **Meridian Lab** logo, light grey inner layer, dark trousers. **No tablet.**
+Never clumsy or disorganized.
+
+## Carl
+Adult **African-American patient**, father of Mia. Reasonable, mildly skeptical when the process is unclear, relieved when resolved.
+Warm brown skin, short tight black curls, short stubble, olive-green long-sleeve shirt, beige trousers, brown shoes.
+Never laboratory staff or the target of the joke.
+
+## Mia
+Carl’s **African-American daughter, about 10 years old**. Must read clearly as a child, not a teenager.
+Warm brown skin, curly black hair in a high ponytail behind the head, muted coral/pink top, olive/khaki trousers, light shoes with coral accents.
+Never the target of the joke.
+
+## Helen
+55–65, serious, professional, restrained and slightly imposing; never a villain.
+Short dark-grey hair, rectangular glasses, very upright posture.
+Variants:
+- laboratory inspection: **CE/FDA** accreditation;
+- clinic inspection: **GDPR** accreditation.
+Identity stays the same; clothing/accreditation may change with context.
+
+## Continuity rules
+1. Character sheet = **who the character is**.
+2. Anchor = **where/how the character starts the shot**.
+3. Never invent changes of age, relationship, profession, clothing or identity.
+4. Preserve face, hair, proportions and approved wardrobe across clips.
+5. SimuLENS supports; the professional decides.

@@ -21,7 +21,7 @@ Cálida, brillante, resolutiva y profesional.
 Puede mostrar preocupación por carga, tiempo o riesgo, nunca falta de capacidad.
 
 **Apariencia:** piel marrón cálida, pelo negro corto y rizado, gafas rectangulares, pequeños
-pendientes, bata blanca sobre blusa coral y pantalón oscuro.
+pendientes, bata blanca con logo **Focus Clinic** sobre blusa coral y pantalón oscuro.
 
 **Humor:** presión del flujo y contraste con la calma de Sam.
 
@@ -32,7 +32,8 @@ Coordina técnicamente con la clínica, conoce el trabajo del laboratorio y pued
 telefónico.
 
 **Apariencia:** hombre joven, pelo negro corto, diadema de soporte con **un solo auricular** y
-micrófono, polo navy con logo **Meridian Lab**, pantalón oscuro y calzado negro.
+micrófono, polo **verde oscuro** con logo **Meridian Lab** en blanco y verde claro, pantalón oscuro y
+calzado negro.
 
 **Nunca:** negligente, hostil, anticuado o “el problema”.
 
@@ -53,9 +54,9 @@ Eficiente, meticulosa, calmada y rápida.
 Representa preparación, bloqueo, torneado, pulido, inspección y organización del flujo físico.
 
 **Apariencia:** mujer asiática de mediana edad, pelo oscuro recogido, gafas de protección
-transparentes, chaqueta/bata de trabajo de laboratorio **celeste o gris celeste muy pálido** —debe
-leer como ropa de trabajo, no como bata médica— con el mismo logo **Meridian Lab** que Sam,
-capa interior gris clara, pantalón oscuro y calzado negro. **No lleva tablet.**
+transparentes, chaqueta/bata de trabajo de laboratorio **celeste muy pálido** —debe
+leer como ropa de trabajo, no como bata médica— con logo **Meridian Lab**, capa interior gris clara,
+pantalón oscuro y calzado negro. **No lleva tablet.**
 
 **Nunca:** torpe, desordenada o insegura.
 
@@ -67,7 +68,7 @@ Razonable y algo escéptico cuando el proceso no está claro; termina tranquilo 
 Representa la consecuencia humana del workflow.
 
 **Apariencia:** hombre afroamericano adulto, piel marrón cálida, pelo negro corto y muy rizado,
-barba corta / stubble, camisa verde oliva de manga larga, pantalón beige y zapatillas marrones.
+barba corta / stubble, camisa azul desaturada de manga larga, pantalón beige y zapatillas marrones.
 El asset visual aprobado más reciente manda para rostro, proporciones, tono de piel y detalles.
 
 **Nunca:** personal del laboratorio ni objeto de burla.
@@ -94,8 +95,8 @@ Sus preguntas son legítimas; nunca es una villana.
 **Apariencia:** 55–65 años, pelo gris oscuro corto, gafas rectangulares, postura muy recta.
 
 **Variantes:**
-- laboratorio: acreditación **CE/FDA**;
-- clínica: acreditación **GDPR**.
+- laboratorio: traje **navy** con acreditación **CE/FDA**;
+- clínica: blazer **beige** con acreditación **GDPR**.
 
 Mantener la misma identidad; cambia vestuario/acreditación según contexto.
 
